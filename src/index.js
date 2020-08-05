@@ -122,4 +122,4 @@ function likeToy(event) {
     // display updated likes value
     event.target.previousElementSibling.innerText = `${newLikes} Likes`
   );
-}
+}l
